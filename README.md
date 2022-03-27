@@ -4,17 +4,30 @@
 <br>
 
 ## 画面・結果
-### フォーム全体
-<img width="300" src="https://user-images.githubusercontent.com/67848399/159878805-89641c20-4d19-4e99-8f8c-777249a51165.png">
 
-### バリデーションエラー
-<img width="300" src="https://user-images.githubusercontent.com/67848399/159878823-a1ab86e1-979e-4b88-8d85-b9b0963a8f74.png">
+<table>
+  <tr>
+    <th>フォーム全体</th>
+    <th>バリデーションエラー</th>
+    <th>確認ダイアログ</th>
+    <th>登録完了ダイアログ</th>
+  </tr>
+  <tr>
+    <td>
+      <img width="300" src="https://user-images.githubusercontent.com/67848399/159878805-89641c20-4d19-4e99-8f8c-777249a51165.png">
+    </td>
+    <td>
+      <img width="300" src="https://user-images.githubusercontent.com/67848399/159878823-a1ab86e1-979e-4b88-8d85-b9b0963a8f74.png">
+    </td>
+    <td>
+      <img width="300" src="https://user-images.githubusercontent.com/67848399/159878827-ecce7fde-b3f0-4ad8-8b3b-30d8be395e3b.png">
+    </td>
+    <td>
+      <img width="300" src="https://user-images.githubusercontent.com/67848399/159878834-d47fa1ea-8af3-4d8c-8882-af12afb8d750.png">
+    </td>
+  </tr>
+</table>
 
-### 確認ダイアログ
-<img width="300" src="https://user-images.githubusercontent.com/67848399/159878827-ecce7fde-b3f0-4ad8-8b3b-30d8be395e3b.png">
-
-### 登録完了ダイアログ
-<img width="300" src="https://user-images.githubusercontent.com/67848399/159878834-d47fa1ea-8af3-4d8c-8882-af12afb8d750.png">
 
 ## コード部分
 ### TextFormField部分
